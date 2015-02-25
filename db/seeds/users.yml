@@ -1,0 +1,14 @@
+- first_name: "Dean"
+  last_name: "Fischer"
+  email: "dean@fischer.com"
+  gender: "male"
+  dob: "23rd June 1989"
+  address:
+    line1: "Flat 4"
+    street: "Druid St"
+    city: "Cambridge"
+    state: "New York"
+    zip: "98109"
+  genres:
+    classics: true
+    biography: true
